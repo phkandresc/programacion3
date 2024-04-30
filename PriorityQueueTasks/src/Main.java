@@ -25,7 +25,7 @@ public class Main {
                     taskManager.viewTasks();
                     break;
                 case 4:
-                    System.out.println("Exit");
+                    System.out.println("Exit...");
                     break;
                 default:
                     System.out.println("Invalid option. Please try again.");
