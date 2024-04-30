@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        String [] items = {"Write expression", "Add task(Manual)", "View tasks"};
-        ConsoleMenu menu = new ConsoleMenu("Main Menu", items);
+        String [] items = {"Write expression"};
+        ConsoleMenu menu = new ConsoleMenu("Expression Tester", items);
+        ExpressionTester expressionTester = new ExpressionTester();
 
         int option = -1;
         while(option != menu.menuItems.size()){
@@ -9,15 +10,15 @@ public class Main {
             option = menu.getOption();
             switch(option){
                 case 1:
-                    System.out.println("Add task");
+                    System.out.println("Write expression");
+                    expressionTester.setExpression("({[])}");
+                    if(expressionTester.testExpression()) {
+                        System.out.println("Expression is CORRECT");
+                    }else {
+                        System.out.println("Expression is INCORRECT");
+                    }
                     break;
                 case 2:
-                    System.out.println("Add task(Manual)");
-                    break;
-                case 3:
-                    System.out.println("View tasks");
-                    break;
-                case 4:
                     System.out.println("Exit");
                     break;
                 default:
