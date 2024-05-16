@@ -1,0 +1,6 @@
+
+5
+java:S1700"Rename field "pila"(¾³¨íþÿÿÿÿ8÷½•Ô÷1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì±Þâýÿÿÿÿ8ø½•Ô÷1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾³¨íþÿÿÿÿ8ü½•Ô÷1

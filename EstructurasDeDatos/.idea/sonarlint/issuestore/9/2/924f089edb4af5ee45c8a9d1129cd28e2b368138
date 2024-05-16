@@ -1,0 +1,19 @@
+
+{
+java:S1854"8Remove this useless assignment to local variable "pila".(ίξ¦¦8ζµ™όχ1J$baaa486f-4809-486b-aacf-25a4016ffa06
+ƒ
+java:S1854"ARemove this useless assignment to local variable "colaPrioridad".(ΛΕJ8ηµ™όχ1J$d59cb643-3f16-4d82-a2df-b10b5fe1da55
+€
+java:S1854
+"8Remove this useless assignment to local variable "cola".(ÿε³όÿÿÿÿ8ηµ™όχ1J$eaec317d-d25d-42de-a8c6-a484a97073bb
+|
+java:S1854	"9Remove this useless assignment to local variable "lista".(Ώ—τ8ηµ™όχ1J$2107a214-1d76-4659-a16d-c36d8876e265
+m
+java:S1481	"*Remove this unused "lista" local variable.(Ώ—τ8θµ™όχ1J$84444530-35f6-4738-ba8f-5d1b2348402a
+q
+java:S1481
+")Remove this unused "cola" local variable.(ÿε³όÿÿÿÿ8ιµ™όχ1J$480a884f-03ae-4db3-8601-973668742fc0
+t
+java:S1481"2Remove this unused "colaPrioridad" local variable.(ΛΕJ8ιµ™όχ1J$e5dd59ea-7907-4134-a350-189e2697d47b
+l
+java:S1481")Remove this unused "pila" local variable.(ίξ¦¦8ιµ™όχ1J$597a4be4-5a10-4742-90c0-122f0a17411e
