@@ -1,0 +1,10 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(óíôªûÿÿÿÿ8·äÔ“ø1J$4d492573-1172-42b2-ae01-426db6c85b02
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğì©¸üÿÿÿÿ8¹äÔ“ø1J$543bb422-e31d-40af-a4f4-ac2eeb8555f3
+r	java:S106"+Replace this use of System.out by a logger.(•ã¼„øÿÿÿÿ8ÉäÔ“ø1J$1d640b16-3eff-41b6-8255-6ebdaafc6ea6
+ƒ
+java:S1117";Rename "iterator" which hides the field declared at line 8.(½ÀÎ…øÿÿÿÿ8ÌäÔ“ø1J$df169aec-f377-408a-b173-9ea36193e6c0
+L	java:S106"+Replace this use of System.out by a logger.(•ã¼„øÿÿÿÿ8ô§×“ø1
+t
+java:S1068",Remove this unused "iterator" private field.(óíôªûÿÿÿÿ8ÏäÔ“ø1J$510ed904-16b5-486b-b3fe-ba1fb12824ca
