@@ -3,6 +3,7 @@ import Cola.Cola;
 import ColaPrioridad.ColaPrioridad;
 import Pilas.Pila;
 import Arboles.BinaryTree;
+import Map.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,26 +11,17 @@ public class Main {
         Cola cola = new Cola();
         ColaPrioridad colaPrioridad = new ColaPrioridad();
         Pila pila = new Pila();
-
+        HashMapUse hashMapUse = new HashMapUse();
         BinaryTree binaryTree = new BinaryTree();
-        binaryTree.insert(10);
-        binaryTree.insert(5);
-        binaryTree.insert(15);
-        binaryTree.insert(3);
-        binaryTree.insert(7);
-        binaryTree.insert(12);
 
-        System.out.println("Arbol vacio: "+binaryTree.isEmpty());
-        System.out.println("InOrder: ");
-        binaryTree.inOrder();
-        System.out.println("\nPreOrder: ");
-        binaryTree.preorder();
-        System.out.println("\nPostOrder: ");
-        binaryTree.postorder();
-        System.out.println("\nBuscar 7: "+binaryTree.search(7));
-        System.out.println("Eliminar 7 ");
-        binaryTree.delete(7);
-        System.out.println("InOrder: ");
-        binaryTree.inOrder();
+        hashMapUse.printMapEntry();
+        System.out.println();
+        hashMapUse.printMapIterator();
+        System.out.println();
+        TreeMapUse treeMapUse = new TreeMapUse();
+        treeMapUse.printMapEntry();
+        System.out.println();
+        LinkedHashMapUse linkedHashMapUse = new LinkedHashMapUse();
+        linkedHashMapUse.printMapEntry();
     }
 }
