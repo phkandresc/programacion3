@@ -1,28 +1,0 @@
-
-]
-java:S1220""Move this file to a named package.8¬¢«•ø1J$6952f4f8-3f4c-4a78-8670-93d2d8b4222b
-†
-java:S1854">Remove this useless assignment to local variable "binaryTree".(Š±Ÿ„ûÿÿÿÿ8”¤«•ø1J$bd2eae82-03d8-4a1f-a9fe-c90094c67230
-{
-java:S1854"8Remove this useless assignment to local variable "pila".(ßî¦¦8•¤«•ø1J$501c22b6-b203-4cab-b76b-6154bf87b376
-ƒ
-java:S1854"ARemove this useless assignment to local variable "colaPrioridad".(ËÅJ8¥¤«•ø1J$13731e97-76fa-4de1-84b0-e358b246e8c9
-€
-java:S1854"8Remove this useless assignment to local variable "cola".(ÿå³üÿÿÿÿ8¥¤«•ø1J$1738da7d-0ff6-4477-8cb5-632af49ff875
-|
-java:S1854
-"9Remove this useless assignment to local variable "lista".(¿—ô8¦¤«•ø1J$7769a2d7-bad4-41c5-a139-5ffdc67cd3d0
-m
-java:S1481
-"*Remove this unused "lista" local variable.(¿—ô8®¤«•ø1J$8c435d7e-bd4e-46e2-8587-fb5a50740311
-q
-java:S1481")Remove this unused "cola" local variable.(ÿå³üÿÿÿÿ8¯¤«•ø1J$df48cc33-ff7c-417e-88ea-508cc9a1f914
-t
-java:S1481"2Remove this unused "colaPrioridad" local variable.(ËÅJ8°¤«•ø1J$2e079fd0-a0c1-4ae4-93f3-8679ebb0d3b8
-l
-java:S1481")Remove this unused "pila" local variable.(ßî¦¦8°¤«•ø1J$f580b005-5967-4477-91c4-c2e12f818f17
-w
-java:S1481"/Remove this unused "binaryTree" local variable.(Š±Ÿ„ûÿÿÿÿ8Â¤«•ø1J$fa866e95-3626-4352-92bf-51993e300d62
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ô¤«•ø1J$a5b297b2-cb6d-4ada-8984-f30e78cf44d2
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ö¤«•ø1J$e859884f-d2dc-4b53-ba20-a5e134b2dd0d
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8×¤«•ø1J$ea0cf463-ef08-4538-8ed1-c77f1f4abb9a

@@ -23,5 +23,12 @@ public class Main {
         System.out.println();
         LinkedHashMapUse linkedHashMapUse = new LinkedHashMapUse();
         linkedHashMapUse.printMapEntry();
-    }
+        try {
+
+        }catch (Exception e){
+            System.out.println(e);
+        }finally {
+            Sy
+        }stem.out.println("Finally");
+        }
 }

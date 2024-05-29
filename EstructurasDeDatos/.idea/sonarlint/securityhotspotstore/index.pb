@@ -13,8 +13,6 @@ K
 src/Arboles/BinaryTree.java,8\c\8c7037ff73368a10900625788e3a001ae87f9ec5
 I
 src/Arboles/TreeNode.java,f\1\f1b74c875c4b517041b1806f92c07de138d0cf59
-D
-src/Map/HashMap.java,3\6\36c32b03b4350a28a3f2fe61ecb2ffd8cc32cffe
 G
 src/Map/HashMapUse.java,4\a\4afa196a5f89b73690dbed5734683d7c0e4f0530
 G

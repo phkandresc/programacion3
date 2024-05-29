@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="View.StudentView">
+  <grid id="27dc6" binding="panelInfo" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="481" height="421"/>
+    </constraints>
+    <properties>
+      <font name="Consolas" size="48"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="2d56f" class="javax.swing.JLabel" binding="lblInfo">
+        <constraints border-constraint="North"/>
+        <properties>
+          <font name="Arial Rounded MT Bold" size="72"/>
+          <foreground color="-13769472"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="83b06" class="javax.swing.JLabel" binding="lblTitulo">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <horizontalAlignment value="0"/>
+          <text value="Student Info"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
