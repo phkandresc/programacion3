@@ -1,0 +1,23 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚJ$d701fb59-7976-45a5-8751-da596767caac
+ 
+java:S1104"XMake contentPanel a static final constant or non-public and provide accessors if needed.(Ñ‡½Èûÿÿÿÿ8™ùÁ¤ø1J$6acf6707-1a19-4041-b275-45eaedf7c1d1
+ 
+java:S1104"]Make txtIngresarNumero a static final constant or non-public and provide accessors if needed.(Œ°Å²8ª¶Æ¤ø1J$5e2e0b33-0927-40c5-81bb-fd3f8ae9b2f8
+ 
+java:S1104	"XMake txtResultado a static final constant or non-public and provide accessors if needed.(Ûçışÿÿÿÿ8¦ÑÆ¤ø1J$558c9238-ca30-4d82-929b-c8de72f77bc2
+
+java:S1104"ZMake calcularButton a static final constant or non-public and provide accessors if needed.(Åõ€À8œºÂ¤ø1J$e7473b7a-0a90-412e-a5a1-a309a233a430
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8şÔœìû1J$ec0c027b-9452-4081-ad1a-a9ecaf0f7a6f
+t
+java:S1068
+",Remove this unused "cabecera" private field.(•¤Œõÿÿÿÿÿ8óÔ¨¤ø1J$7192638a-8ebc-4f85-ba65-d20af554f638
+j
+java:S1068"'Remove this unused "pie" private field.(˜¡˜8şÔœìû1J$3d6b35ed-c6ac-4746-a6a1-b2806a4e7976
+l
+java:S1068")Remove this unused "medio" private field.(ì°Ô½8Œ÷²¤ø1J$5658cde6-2aa8-4c40-97c1-1b97b3433154
+x
+java:S1068"5Remove this unused "lblIngresarNumero" private field.(€ïØ¸8Œ÷²¤ø1J$30751c93-effd-461e-bd95-cb832b6dce55
+x
+java:S1068"0Remove this unused "lblResultado" private field.(‡‚Œ±ûÿÿÿÿ8ÿÔœìû1J$0e58df73-626f-4163-a751-df3bfcbbdf87
