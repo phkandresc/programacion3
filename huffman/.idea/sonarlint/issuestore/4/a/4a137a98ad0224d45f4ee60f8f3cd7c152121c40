@@ -1,0 +1,25 @@
+
+k
+java:S16041"(Make this anonymous inner class a lambda(ç¯‘Ï8ƒ¯É¨‚2J$3d35afe8-ae89-404e-86d2-a6616edcc997
+¡
+java:S1104„"XMake btnComprimir a static final constant or non-public and provide accessors if needed.(ú‰Ûƒùÿÿÿÿ8…¯É¨‚2J$b93caa25-64ee-4099-a4b9-56b42e39f946
+Ÿ
+java:S1104…"[Make btnDescomprimir a static final constant or non-public and provide accessors if needed.(ªé£±8…¯É¨‚2J$340f0553-e734-4906-a113-acc8ce861b79
+¥
+java:S1104†"aMake btnSeleccionarArchivo a static final constant or non-public and provide accessors if needed.(†ßÜÁ8…¯É¨‚2J$dca06f5f-33eb-43f9-88ab-507c2f5e2353
+š
+java:S1104‰"VMake txtArchivo a static final constant or non-public and provide accessors if needed.(–ÍÍÖ8…¯É¨‚2J$b0eba6be-aafd-4c86-9b67-23ae9e3dbc0c
+Œ
+java:S1192-"IDefine a constant instead of duplicating this literal "Consolas" 5 times.(–¢›¼8¯É¨‚2J$2c9d25c8-2d25-449d-adb6-8d56cb4d33fe
+Ÿ
+java:S1450‡"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8™¯É¨‚2J$0b5948f9-e84a-4de2-8ff9-a009d3f218f2
+Ÿ
+java:S1450ˆ"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8š¯É¨‚2J$b3191e78-6fc9-484a-ad64-06267ba745ab
+r
+java:S1172z"*Remove this unused method parameter "evt".(ò®Ëñıÿÿÿÿ8¿¯É¨‚2J$4be48306-d1c9-47e9-b4b0-b468fe02630e
+z
+java:S1135{"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8¿¯É¨‚2J$7dffa6c7-a8bb-4790-9dff-4d99222fa387
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8Å»Ú¨‚2
+R
+java:S1128"5Remove this unused import 'javax.swing.JFileChooser'.(õ‡æÂ8Å»Ú¨‚2

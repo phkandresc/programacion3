@@ -1,0 +1,37 @@
+
+k
+java:S16041"(Make this anonymous inner class a lambda(ç¯‘Ï8ƒ¯É¨‚2J$e159acd6-2cbc-416b-af0d-b2b77c6e5519
+k
+java:S16049"(Make this anonymous inner class a lambda(½±‹ë8ƒ¯É¨‚2J$fbb3eb77-644c-4ecf-aec2-5213c0cfa19d
+q
+java:S1604ª"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8ƒ¯É¨‚2J$f7b60814-95d4-4913-a2b5-02c1fb9c699a
+¡
+java:S1104²"XMake btnComprimir a static final constant or non-public and provide accessors if needed.(ú‰Ûƒùÿÿÿÿ8…¯É¨‚2J$73a9a262-afd3-498f-b1a0-061006b82ad1
+Ÿ
+java:S1104³"[Make btnDescomprimir a static final constant or non-public and provide accessors if needed.(ªé£±8…¯É¨‚2J$cecbc1a7-e42a-4180-af1a-a800c8492bdd
+¥
+java:S1104´"aMake btnSeleccionarArchivo a static final constant or non-public and provide accessors if needed.(†ßÜÁ8…¯É¨‚2J$0e5a7f75-d909-47a4-8da0-25b09c833255
+š
+java:S1104·"VMake txtArchivo a static final constant or non-public and provide accessors if needed.(–ÍÍÖ8…¯É¨‚2J$1358df71-eaa3-48ef-ac60-4a77ebf20a66
+Œ
+java:S1192-"IDefine a constant instead of duplicating this literal "Consolas" 5 times.(–¢›¼8¯É¨‚2J$7f3157d8-0eb4-4ac1-9b8e-a64208530b64
+Ÿ
+java:S1450µ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8™¯É¨‚2J$cf2c7295-243c-41ac-827c-981060e2fbb5
+Ÿ
+java:S1450¶"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ8š¯É¨‚2J$8024a077-539b-4627-978f-b5e3f636a8c6
+r
+java:S1172"*Remove this unused method parameter "evt".(ò®Ëñıÿÿÿÿ8¿¯É¨‚2J$1b2da90b-f0d1-48a9-b01c-34f31072cd7f
+{
+java:S1135€"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8¿¯É¨‚2J$5de30e94-fb3f-4e57-b37b-76343bc99d29
+s
+java:S1172ƒ"*Remove this unused method parameter "evt".(½¿“Îşÿÿÿÿ8À¯É¨‚2J$e0baed0e-48fb-4c6a-8c60-81b610cd4c58
+{
+java:S1135„"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8À¯É¨‚2J$7bc7d066-bc97-4291-8abe-c3a2dc3861b7
+s
+java:S1197‘"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Æ¯É¨‚2J$2544e300-7fb4-4903-9370-9eb1832d761a
+‰
+java:S2147 "ECombine this catch with the one at line 158, which has the same body.(¨¦Š½8É¯É¨‚2J$f13a0b14-6026-491c-b06a-6da353913e88
+‰
+java:S2147¢"ECombine this catch with the one at line 160, which has the same body.(ã€ 8É¯É¨‚2J$c7bcbc29-163b-4704-8669-3b833c8c0959
+ˆ
+java:S2147¤"ECombine this catch with the one at line 162, which has the same body.(ñÎ¯%8É¯É¨‚2J$ad18b934-c986-4388-9b73-36f50ed83454

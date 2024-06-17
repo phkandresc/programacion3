@@ -1,0 +1,25 @@
+
+k
+java:S3740"/Provide the parametrized type for this generic.(Ò…¿óJ$52f1275a-c389-48ad-b999-0ffdd1710763
+p
+java:S3740B"/Provide the parametrized type for this generic.(Âİ³ÕøÿÿÿÿJ$1513479d-c19a-48f3-9ab7-e7bd6345ba1d
+q
+java:S3740Š"/Provide the parametrized type for this generic.(Ü¬é—ıÿÿÿÿJ$9c209b96-a331-47a4-b1dd-8e6db4978beb
+Y
+java:S1643"Use a StringBuilder instead.(“úëÂJ$09f1ad38-bc73-43e8-9c73-fb027f0b6503
+Y
+java:S1643©"Use a StringBuilder instead.(›ß†¢J$fe880369-13f9-4b36-99bb-e2118a5e1d9e
+Y
+java:S1643«"Use a StringBuilder instead.(£¨àJ$281b9573-9a0e-42a9-995f-d090a83ce7b2
+‘
+java:S2095ß"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ëÉùäÿÿÿÿÿJ$86e0036f-b37e-4f87-a1bc-b0b8c319c87b
+r
+java:S1751¡"5Remove this "break" statement or make it conditional.(›ûä·J$21ad7e3b-6293-4f9e-846d-e350151f5954
+	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šú¬¸üÿÿÿÿJ$b19cb471-e05b-4366-b049-49d466ea622e
+}	java:S125±"<This block of commented-out lines of code should be removed.(Æ¿œ’ûÿÿÿÿJ$8914a9de-74e8-4d29-ad6c-ca4174792bca
+n
+java:S1602Ã",Remove useless curly braces around statement(¹“°ıÿÿÿÿJ$f152924c-3302-4987-aa3c-a081ec054d82
+e	java:S108Ò")Either remove or fill this block of code.(ï­£ÄJ$a4b5355d-6d5d-4c91-8bce-49c12478c1ef
+}	java:S125Ö"<This block of commented-out lines of code should be removed.(å¦ˆºûÿÿÿÿJ$781b3d30-5c23-40a0-b238-57bb836810e3
+Š	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ì¢ûJ$1c3776a7-f472-4909-bebd-41070f08df69
+e	java:S108ä")Either remove or fill this block of code.(¼•§œJ$e34cf77e-6ab2-4b52-9a45-423b54ebab16
