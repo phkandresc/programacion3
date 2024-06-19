@@ -1,0 +1,39 @@
+
+i
+java:S1604X"(Make this anonymous inner class a lambda(ÜíÎøÿÿÿÿJ$fced2e7d-ecdc-46b1-a845-f8fb44bcfcf1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãÂÀª8¤Ì†ù‚2
+
+java:S1104"QMake panel a static final constant or non-public and provide accessors if needed.(á‘ß«J$6029768b-d9ae-4970-87bc-c7749685b5d8
+•
+java:S1104"TMake comboBox a static final constant or non-public and provide accessors if needed.(õù—üÿÿÿÿJ$0e84cf4a-1b40-4a04-90aa-d35065ed9e05
+”
+java:S1104"YMake rdbtnContorno a static final constant or non-public and provide accessors if needed.(ë½¾J$bc3c66da-4169-4bf6-99e3-1f8603116bb2
+”
+java:S1104"XMake rdbtnRelleno a static final constant or non-public and provide accessors if needed.(”İë¯J$515063b1-3c01-4504-8334-fbf52ccc6a20
+–
+java:S1104"ZMake btnColorFigura a static final constant or non-public and provide accessors if needed.(à¸â«J$f801df24-7c04-4cf7-b6f3-95aa3664c406
+“
+java:S1104"RMake lienzo a static final constant or non-public and provide accessors if needed.(åé€ÑıÿÿÿÿJ$29b34399-05f4-4592-9294-3ae460fec9c4
+
+java:S1104"SMake panel_1 a static final constant or non-public and provide accessors if needed.(İşÛØJ$493a0bee-079f-40c9-82e2-00b3b7f82783
+—
+java:S1104"VMake btnLimpiar a static final constant or non-public and provide accessors if needed.(ÓêÆ–üÿÿÿÿJ$f35f5eb5-fe3a-41c3-87f6-a1ef966da8fd
+–
+java:S1104"UMake btnGrabar a static final constant or non-public and provide accessors if needed.(‹™ÈÍùÿÿÿÿJ$b1ab8e72-0a86-499e-a091-8f58dcac0418
+”
+java:S1104"XMake btnRestaurar a static final constant or non-public and provide accessors if needed.(¦¯ùŠJ$266f9c78-cbde-4544-b8c3-8bb334270f86
+“
+java:S1104"WMake lblNewLabel a static final constant or non-public and provide accessors if needed.(„Í…¬J$a365c7a0-dc7c-4238-907d-0e6b8d05051b
+p
+java:S3740"/Provide the parametrized type for this generic.(õù—üÿÿÿÿJ$b94ac4f5-a226-449f-9e04-dc6d9c6af641
+k
+java:S37403"/Provide the parametrized type for this generic.(Çä•J$88f7721c-3c37-4789-933f-63694d1b1684
+k
+java:S37406"/Provide the parametrized type for this generic.(ËÒæâJ$10b966d3-1a4f-4402-a73d-c282a7c01730
+‚
+java:S11927"FDefine a constant instead of duplicating this literal "Arial" 5 times.(Ãİ˜¥J$a2ed3969-58c8-4dc1-9b30-cc1efc39084d
+	java:S116"RRename this field "panel_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İşÛØJ$2d57b098-db8b-4586-b6e3-d570fa0d0681
+Š
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿJ$6caefaa7-bcb6-4c18-9e82-c2f25b8e3748
+Â
+java:S1186Y"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ ÒşüÿÿÿÿJ$b6b232eb-d73d-4948-8559-2f3f6ce95a5c

@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥í–é8ƒğ‚ğ‚2J$4a909f13-dd87-43ed-94c9-4781f88b03cd
+
+java:S1130"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(·ÍªŞ8ğ‚ğ‚2J$618f3ea8-c539-45ab-94ef-dc0a1441d273
+m
+java:S1197"*Move the array designators [] to the type.(É¯†ƒ8ğ‚ğ‚2J$a0371e5d-07f6-4fce-9126-14fee6668cb7
+m
+java:S1197"*Move the array designators [] to the type.(·ÍªŞ8ğ‚ğ‚2J$1a43d670-fb46-4996-84fd-873265cf48d3
+‡
+java:S2147"DCombine this catch with the one at line 16, which has the same body.(ï­£Ä8ğ‚ğ‚2J$c7947afb-1d87-402e-9e99-956d35156f85
+r
+java:S2093
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ğ‚ğ‚2J$0f0db545-f0ee-46e1-947a-2fe43aa89ff6
+‡
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(ï­£Ä8‘ğ‚ğ‚2J$1240b998-ff7e-45d7-9176-4ee50647d8c7
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8’ğ‚ğ‚2J$edeaab23-08fb-4828-b33b-8075310ae508

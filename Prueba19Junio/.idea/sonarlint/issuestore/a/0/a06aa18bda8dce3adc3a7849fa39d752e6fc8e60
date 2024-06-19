@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë±çî8Ñ¼ìø‚2J$18a8b6e4-bcc1-45c7-a8c5-b96b9c5d4eba
+r
+java:S10661"/Merge this if statement with the enclosing one.(£ï—­8Ñ¼ìø‚2J$0260cd42-7da5-4678-a124-69e3cf07dbeb
+É
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ä Ïúüÿÿÿÿ8Ó¼ìø‚2J$cf4b1e68-7e0c-4035-9740-3ba784067ee5
+É
+java:S1186\"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö„˜şúÿÿÿÿ8Ó¼ìø‚2J$1e737372-0851-4706-befa-f1151cb0c379
+É
+java:S1186a"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•ßçùÿÿÿÿ8Ó¼ìø‚2J$daca5be9-840f-4c57-9160-d02c2b3b1851
+œ
+java:S1450"YRemove the "puntoFinal" field and declare it as a local variable in the relevant methods.(Ìµ»¾8â‡Šù‚2J$19d6896d-a965-4f21-86a7-a83401cc05e0
+q
+java:S1068")Remove this unused "forma" private field.(ß–®ııÿÿÿÿ8çş‹ù‚2J$f61fa190-a52b-4a30-8a12-c71a4084519b
