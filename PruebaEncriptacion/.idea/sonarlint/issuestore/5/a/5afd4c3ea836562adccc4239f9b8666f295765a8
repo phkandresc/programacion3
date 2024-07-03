@@ -1,0 +1,49 @@
+
+j
+java:S1604."(Make this anonymous inner class a lambda(öÜô8š¤±À‡2J$ddf225d6-df16-43e0-a3f3-ae1628d613e2
+k
+java:S1604="(Make this anonymous inner class a lambda(´º©’8›¤±À‡2J$26109ae0-c3b4-4cb7-9ea0-931628d5dabb
+k
+java:S1604D"(Make this anonymous inner class a lambda(½‡¬–8›¤±À‡2J$8941a102-1fb6-4750-9a84-bd94bfe7668d
+q
+java:S1604°"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ8›¤±À‡2J$5a81dd0a-d49e-4e6b-9846-5cec98a69983
+«
+java:S1104¸"bMake btnCargarArchivoCifrar a static final constant or non-public and provide accessors if needed.(îóÍ¾ûÿÿÿÿ8¢¤±À‡2J$62a6216e-eae7-42b1-9eb1-f63b56e34a3d
+¬
+java:S1104¹"hMake btnCargarArchivoDesencriptar a static final constant or non-public and provide accessors if needed.(°ĞÆ”8¢¤±À‡2J$0832ff03-a65c-446f-8606-2f63a54cb566
+¬
+java:S1104º"iMake btnCargarClaveDesencriptacion a static final constant or non-public and provide accessors if needed.(¤Ÿ‹t8¢¤±À‡2J$081a2140-6439-4cc5-b8d5-f9ae07838b8d
+Ÿ
+java:S1104»"[Make btnDesencriptar a static final constant or non-public and provide accessors if needed.(ˆå„“8¢¤±À‡2J$b55846a9-15a1-42e3-9f4a-d554203d5647
+œ
+java:S1104¼"XMake btnEncriptar a static final constant or non-public and provide accessors if needed.(…óÀö8£¤±À‡2J$2c38b612-8044-4acc-9a12-6ba2ada10077
+Ÿ
+java:S1104¿"[Make txtArchivoClave a static final constant or non-public and provide accessors if needed.(™¾—ş8£¤±À‡2J$8f04ba47-3c6e-4651-94a9-e6c259a7ecd9
+«
+java:S1104À"bMake txtArchivoDesencriptar a static final constant or non-public and provide accessors if needed.(İİÑûÿÿÿÿ8£¤±À‡2J$0e6750c5-c9a2-4058-bd28-938a3bc60f8e
+£
+java:S1104Á"_Make txtArchivoEncriptar a static final constant or non-public and provide accessors if needed.(˜Ñ¢·8£¤±À‡2J$4fc6e048-1c21-479d-a0f4-26494eb504a0
+Ÿ
+java:S1450½"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8·¤±À‡2J$2c76a4e6-38d4-4ed7-80a3-603501025175
+Ÿ
+java:S1450¾"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8·¤±À‡2J$cd004220-ea91-4dae-904b-d1b74b76893e
+s
+java:S1172ˆ"*Remove this unused method parameter "evt".(×å‡•ùÿÿÿÿ8¥±À‡2J$a3cd95fc-73cd-41b3-9e0d-d732f9812400
+{
+java:S1135‰"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8¥±À‡2J$113f4e06-f2fb-4650-801d-bf36a40b811c
+s
+java:S1172Œ"*Remove this unused method parameter "evt".(Ÿ»¯øÿÿÿÿ8ƒ¥±À‡2J$3b0b94bf-535f-48ec-bc41-953edbfa8bb0
+{
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8…¥±À‡2J$16e84cb2-ff22-4464-b3e1-587691d664c6
+n
+java:S1172"*Remove this unused method parameter "evt".(òƒ‡í8…¥±À‡2J$531b1a1a-1fca-4717-95f9-9915064cb160
+{
+java:S1135‘"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ8…¥±À‡2J$e273e7e6-0c09-47ea-be5c-8cfb119543ae
+s
+java:S1197—"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¥±À‡2J$5f2519ab-400e-4796-971e-13b2a422f562
+‰
+java:S2147¦"ECombine this catch with the one at line 164, which has the same body.(¨¦Š½8Ñ¥±À‡2J$5da633c7-d29a-4e8b-9464-400fa7299493
+‰
+java:S2147¨"ECombine this catch with the one at line 166, which has the same body.(ã€ 8Ò¥±À‡2J$8d9c4f2c-4b5b-454c-b863-44734204765d
+ˆ
+java:S2147ª"ECombine this catch with the one at line 168, which has the same body.(ñÎ¯%8Ò¥±À‡2J$9e16cd9f-51eb-4593-a036-0b02b6f41245

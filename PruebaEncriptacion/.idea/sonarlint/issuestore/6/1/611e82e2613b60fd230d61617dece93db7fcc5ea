@@ -1,0 +1,7 @@
+
+|
+java:S1117+"9Rename "matriz" which hides the field declared at line 8.(ä¶’ú8ÕÙ¾‡2J$60cbc9d6-c23b-4e90-9d99-3b75c6ad43a4
+›
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ñ‡ u8ÕÙ¾‡2J$3d649a48-fe62-4940-b795-45a37565b403
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ÉŠ©¿‡2J$6d385612-83ce-4f79-a12b-54f3b8de75aa
